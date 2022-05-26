@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A Cool Web Developer From Brazil</h3>
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=victor0x16&margin-w=15&margin-h=15" alt="victor0x16" />
 </a>
