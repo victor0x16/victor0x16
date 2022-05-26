@@ -7,7 +7,7 @@
 </a>
 </p>
 
-- 🌱 I’m currently learning **react, astro, and chai.**
+- 🌱 I’m currently learning **react, astro, go, and chai.**
 
 - 💬 Ask me about **react, astro and chai.**
 
